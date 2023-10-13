@@ -4,12 +4,16 @@
             "name": "shwet",
             "email": "s@gmail.com",
             "password": "123",
+            "isadmin":false,
+            "address":"surat",
             "id": 1
           },
           {
             "name": "admin",
             "email": "admin@gmail.com",
             "password": "123456",
+            "isadmin":true,
+            "address":"surat",
             "id": 2
           }
     ],
