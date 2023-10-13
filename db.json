@@ -1,0 +1,18 @@
+{
+    "user": [
+        {
+            "name": "shwet",
+            "email": "s@gmail.com",
+            "password": "123",
+            "id": 1
+          },
+          {
+            "name": "admin",
+            "email": "admin@gmail.com",
+            "password": "123456",
+            "id": 2
+          }
+    ],
+    "products": [],
+    "cart": []
+}
