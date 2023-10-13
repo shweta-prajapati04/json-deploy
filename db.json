@@ -17,6 +17,47 @@
             "id": 2
           }
     ],
-    "products": [],
+    "products": [
+      {
+      "category": "men",
+      "title": " Previous Next MEN'S BOUNDER - INSHORE",
+      "price": "1500",
+      "size": "4",
+      "imageurl": "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw90862c5d/images/large/196642721059-1.jpg",
+      "color": "black",
+      "isnew": "false",
+      "id": 3
+    },
+    {
+      "category": "men",
+      "title": "FIRST Grey Men's Running Shoes",
+      "price": "1809",
+      "size": "6",
+      "imageurl": "https://www.campusshoes.com/cdn/shop/products/FIRST_11G-787_L.GRY-BLK.jpg?v=1670326275&width=720",
+      "color": "grey",
+      "isnew": false,
+      "id": 4
+    },
+    {
+      "category": "men",
+      "title": "RIM Black Men's Running Shoes",
+      "price": "1088",
+      "size": "8",
+      "imageurl": "Rim Men's white Running Shoes",
+      "color": "navy",
+      "isnew": "false",
+      "id": 5
+    },
+    {
+      "category": "men",
+      "title": "Rim Men's white Running Shoes",
+      "price": "2000",
+      "size": "9",
+      "imageurl": "https://www.campusshoes.com/cdn/shop/products/RIM_11G-790_OFFWHT-NAVY_2.jpg?v=1670325652&width=720",
+      "color": "grey",
+      "isnew": false,
+      "id": 6
+    }
+    ],
     "cart": []
 }
